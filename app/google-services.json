@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "313352948876",
+    "project_id": "ecommerce-5302f",
+    "storage_bucket": "ecommerce-5302f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313352948876:android:bd971ad853fc216e7f7fa9",
+        "android_client_info": {
+          "package_name": "com.example.giftswala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313352948876-5017fguc7fepcinj70uufudilnifogln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giftswala",
+            "certificate_hash": "fc1ad31316a3730c9241279caf36bff4c2e11e3d"
+          }
+        },
+        {
+          "client_id": "313352948876-gg84ulh113877l0hi6238bqca60eckop.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBppmziRdkSj3m2E-mHmyngvmI0WNI86ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313352948876-gg84ulh113877l0hi6238bqca60eckop.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
