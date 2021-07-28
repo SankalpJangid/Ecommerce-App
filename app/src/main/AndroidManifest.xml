@@ -22,7 +22,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDn6l32aRyKQpud9QZCAQPKxn5pkOoNzXU" />
+            android:value="YOUR-API-KEY" />
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
@@ -30,7 +30,7 @@
         <activity android:name=".AddressPage">
             <meta-data
                 android:name="com.google.android.geo.API_KEY"
-                android:value="AIzaSyDn6l32aRyKQpud9QZCAQPKxn5pkOoNzXU" />
+                android:value="YOUR-API-KEY" />
         </activity>
         <activity android:name=".SavedAddress" />
         <activity android:name=".AddItemIntoCollections" />
